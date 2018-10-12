@@ -1,1 +1,1 @@
-api().show().me().the().money();
+api().show().invitePeter();
