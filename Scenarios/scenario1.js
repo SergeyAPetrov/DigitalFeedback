@@ -1,1 +1,1 @@
-api().show().me().the()
+api().show().me().the().money();
