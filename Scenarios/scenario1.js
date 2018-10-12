@@ -1,1 +1,1 @@
-api().show().invitePeter();
+api().show().invitePaul();
