@@ -1,4 +1,3 @@
-//test
 var outdated = Date.now() > new Date('2019-06-06 9:00'); // 9am on June 6th
 var declined = localStorage.getItem('last_invitation_status') === 'declined';
 
